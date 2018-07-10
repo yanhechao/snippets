@@ -8,4 +8,4 @@ https://github.com/
 
   `New repository`
 
-![new-repository](..\resources\img\new-repository.png)
+![new-repository](https://raw.githubusercontent.com/yanhechao/snippets/master/resources/img/new-repository.png)
