@@ -8,7 +8,7 @@
 
 ##  建立自己的一个仓库
 
-  	`New repository`
+`New repository`
 
 ##  安装git
 
