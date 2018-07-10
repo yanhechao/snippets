@@ -2,19 +2,19 @@
 
 [TOC]
 
-## 1. 创建github账号
+##  创建github账号
 
 ​	https://github.com/
 
-## 2. 建立自己的一个仓库
+##  建立自己的一个仓库
 
   	`New repository`
 
-## 3. 安装git
+##  安装git
 
 ​	官网下载地址在[这里](https://git-scm.com/downloads)
 
-## 4. git 配置
+##  git 配置
 
 1. 设置名字邮箱
 
@@ -47,7 +47,7 @@
     title:随便取
     把`id_rsa.pub`复制到`Key`中
 
-## 5. 提交文件到远程仓库
+## 提交文件到远程仓库
 1. 克隆远程仓库`Clone with SHH`
 
   ```sh
